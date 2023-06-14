@@ -1,0 +1,28 @@
+html{
+    text-align: center;
+}
+body{
+    background-color: black;
+    color: white;
+    
+}
+p{
+    color: #00FF00;
+    border-style: solid;
+    border-color: white;
+    /* border-radius: 2em; */
+    width: 30em;
+    margin: auto;
+    height: 40em;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+span{
+    border-style: solid;
+    border-radius: 9px;
+    margin: auto;
+    font-size: 4em;
+    padding-left: 8px;
+    padding-right: 8px;
+
+}
